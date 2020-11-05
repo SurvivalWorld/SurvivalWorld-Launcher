@@ -11,7 +11,7 @@
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.12.2",
+            "id": "survivalworld-1.12.2",
             "name": "survivalworld",
             "description": "New 1.12.2 production server.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
@@ -20,7 +20,7 @@
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Production Server",
-                "largeImageText": "WesterosCraft 1.12.2 Production Server",
+                "largeImageText": "survivalworld 1.12.2 Production Server",
                 "largeImageKey": "server-prod"
             },
             "mainServer": false,
